@@ -5,7 +5,7 @@ setxkbmap fr &
 # ibus-daemon --xim -d
 
 # Launches randow wallpaper script
-~/Work/scripts/randomWall.sh &
+~/script/randomWallpaper.sh &
 
 # Starts DBus
 source /etc/X11/xinit/xinitrc.d/30-dbus &
