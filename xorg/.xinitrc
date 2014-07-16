@@ -13,5 +13,5 @@ source /etc/X11/xinit/xinitrc.d/30-dbus &
 # Loads Xresources
 xrdb -load .config/Xresources
 
-# Starts awesome-wm
-exec awesome
+# Starts i3
+exec i3
