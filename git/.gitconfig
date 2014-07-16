@@ -23,8 +23,8 @@
 [branch]
     autosetupmerge  = true
 [user]
-    name    = AUTHORNAME
-    email   = AUTHOREMAIL
+    name    = fenech_a
+    email   = adrien.fenech@epita.fr
 [core]
     autocrlf = input
 [push]
