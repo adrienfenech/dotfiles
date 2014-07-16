@@ -2,11 +2,7 @@
 " Parameters related to the edition zone
 
 " Relative numeration
-if version < 703
-  set number
-else
-  set relativenumber
-endif
+set number
 
 " Format the statusline
 set laststatus=2
