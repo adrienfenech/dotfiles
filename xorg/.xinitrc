@@ -1,8 +1,11 @@
 # Set French keymap
-setxkbmap fr &
+setxkbmap us &
 
 # export GTK_IM_MODULE_FILE=/etc/gtk-2.0/gtk.immodules
 # ibus-daemon --xim -d
+
+# Beep off
+xset -b
 
 # Launches randow wallpaper script
 ~/script/randomWallpaper.sh &
